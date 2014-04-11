@@ -12,3 +12,5 @@ To run your own version of the site or locally, copy settings-template.py to
 settings.py and edit all the options to your local setup. The Amazon S3 and 
 CloudFront settings are required to support photo uploads for your recipes.
 The rest of the options should be self-explanatory.
+
+介绍网站：http://backchannel.org/blog/social-cookbook
